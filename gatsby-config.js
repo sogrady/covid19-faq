@@ -11,11 +11,11 @@ module.exports = {
       },
       {
         name: `twitter`,
-        url: `https://twitter.com/HuntaroSan`
+        url: `https://twitter.com/sogrady`
       }
     ],
     sidebarConfig: {
-      forcedNavOrder: ["/introduction", "/codeblock"],
+      forcedNavOrder: ["/background","/response"],
       ignoreIndex: true
     }
   },
