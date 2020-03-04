@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
-    title: `Document by Code Bushi`,
-    name: `Code Bushi`,
-    siteUrl: `https://gatsby-theme-document.netlify.com`,
-    description: `This is my description that will be used in the meta tags and important for search results`,
+    title: `The COVID-19 FAQ`,
+    name: `sogrady`,
+    siteUrl: `https://covidfaq.com`,
+    description: `A site that answers frequently asked questions about the COVID-19 outbreak using information from health services and media outlets`,
     social: [
       {
         name: `github`,

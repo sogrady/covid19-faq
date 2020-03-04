@@ -6,6 +6,14 @@ export default {
   sidebar: "#eee",
   borderColor: "rgba(0, 0, 0, 0.15)",
   modes: {
+    light: {
+      text: "#000",
+      background: "#fff",
+      primary: "#e63b19",
+      secondary: "#c70d3a",
+      sidebar: "#eee",
+      borderColor: "rgba(0, 0, 0, 0.15)"
+    },
     dark: {
       text: "#fff",
       background: "#182952",
