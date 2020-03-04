@@ -15,7 +15,7 @@ module.exports = {
       }
     ],
     sidebarConfig: {
-      forcedNavOrder: ["/background","/response"],
+      forcedNavOrder: ["/background","/response","/resources"],
       ignoreIndex: true
     }
   },
