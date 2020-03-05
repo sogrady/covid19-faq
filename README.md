@@ -14,3 +14,6 @@ I plan to keep this site updated, if only because the process is relatively low 
 I make no promises that they'll be accepted, but if they fit within the context and purpose of the site - which is to say answering specific questions succinctly - pull requests will be considered. 
 
 If you have more significant ideas for contributions and want to know ahead of time if they'd be welcome, feel free to reach out directly. 
+
+## How to Contribute
+If you're unfamiliar with Gatsby, this particular Gatsby starter or both, the content for this site is located under the `/content` directory. Pages are written in Markdown, and sub-pages are located in associated sub-directories. The naming convention is numeric sequential which determines navigational order. 
